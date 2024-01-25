@@ -1,0 +1,74 @@
+body{
+    background-image: url("m.jpg");
+    background-size: cover;
+}
+.container {
+  background-image: url("m12.jpg");
+  background-size: cover;
+  height: 400px;
+  width: 600px;
+  margin-left: 700px;
+  margin-top: 75px;
+  
+}
+
+#resultValue,
+.result{
+  padding-top: 20px;
+  color: yellow;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: larger;
+  
+}
+.inputFields{
+    
+    padding-top: 20px;
+         color: rgb(24, 8, 206);
+       text-align: center;
+       font-size: larger;
+       text-shadow: 20cm;
+       text-transform: uppercase;
+       
+   }
+#addition {
+  color: rgb(48, 37, 37);
+  height: 30px;
+  margin-left: 300px;
+  margin-top: 50px;
+  background-color: white;
+}
+
+#substraction {
+  color: rgb(48, 37, 37);
+  height: 30px;
+  margin-left: 300px;
+  margin-top: 10px;
+  background-color: white;
+}
+#addition:hover{
+    background-color: aqua;
+}
+#substraction:hover{
+    background-color: aqua;
+}
+#multiplication:hover{
+    background-color: aqua;
+}
+#division:hover{
+    background-color: aqua;
+}
+#multiplication {
+  color: rgb(48, 37, 37);
+  height: 30px;
+  margin-left: 300px;
+  margin-top: 10px;
+  background-color: white;
+}
+#division {
+  color: rgb(48, 37, 37);
+  height: 30px;
+  margin-left: 300px;
+  margin-top: 10px;
+  background-color: white;
+}
